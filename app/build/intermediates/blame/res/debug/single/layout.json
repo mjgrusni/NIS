@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lookuprecord.xml",
+        "source": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\src\\main\\res\\layout\\lookuprecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_row.xml",
+        "source": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\src\\main\\res\\layout\\listview_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addupdatevalues.xml",
+        "source": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\src\\main\\res\\layout\\addupdatevalues.xml"
+    },
+    {
+        "merged": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addrecord.xml",
+        "source": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\src\\main\\res\\layout\\addrecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewrecord.xml",
+        "source": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\src\\main\\res\\layout\\viewrecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Buddy\\AndroidStudioProjects\\NIS\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
